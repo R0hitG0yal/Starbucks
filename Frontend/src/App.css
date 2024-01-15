@@ -1,0 +1,69 @@
+
+
+/* 
+.navbar {
+  max-height: fit-content;
+  border-radius: 30px;
+  margin-top: 0px;
+  margin-bottom: -10px;
+}
+
+.navbar li,
+img {
+  float: left;
+  list-style: none;
+  margin: 13px 20px;
+}
+img {
+  height: 40px;
+  width: 40px;
+}
+.navbar ul {
+  margin: none;
+  overflow: auto;
+}
+
+.navbar ul li {
+  margin-top: 20px;
+}
+
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: black;
+}
+
+.right,
+.storeLocator {
+  float: right;
+  padding: 8px 35px;
+}
+
+#joinNow {
+  background-color: black;
+  color: white;
+  margin-right: 5%;
+}
+
+button {
+  border: 1px solid black;
+  background: fixed transparent;
+  border-radius: 30px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.navbar ul li:active {
+  padding-bottom: 2%;
+  border-bottom: 5px solid rgba(0, 128, 0, 0.812);
+}
+
+.title {
+  background-color: #213c34;
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+  padding: 10px 10px ;
+}
+.title span{
+  margin-left: 10%;
+} */
